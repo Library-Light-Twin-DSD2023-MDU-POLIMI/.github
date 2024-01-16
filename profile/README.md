@@ -13,8 +13,8 @@ instead of a real library.
 
 The technologies used have been:
 
-* NodeJS, Serverless, apollo server, and mongodb for the backend
-* React, nextjs, and the apollo client for the frontend
+* NodeJS, Serverless, apollo server, and mongodb for the [backend](https://github.com/Library-Light-Twin-DSD2023-MDU-POLIMI/digital-twin-dsd-backend)
+* React, nextjs, and the apollo client for the [frontend](https://github.com/Library-Light-Twin-DSD2023-MDU-POLIMI/digitaltwin)
 
 Group members:
 
