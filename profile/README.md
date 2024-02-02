@@ -1,3 +1,5 @@
+> The organization has been archived, since this was a university proyect for a course in the first semester of the 2023/24 school year.
+
 # Library Light Twin
 
 [Proyect description in FER website](https://www.fer.unizg.hr/rasip/dsd/projects/digitaltwin/project_description)
